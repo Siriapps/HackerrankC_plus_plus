@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615723566 source:c:\users\sriap\downloads\hackerrankc++\lowerbound-stl\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615544726 source:c:\users\sriap\downloads\hackerrankc++\vectorsort\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
