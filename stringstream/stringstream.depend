@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612974713 source:c:\users\sriap\downloads\hackerrankc++\stringstream\main.cpp
+	<sstream>
+	<vector>
+	<iostream>
+
