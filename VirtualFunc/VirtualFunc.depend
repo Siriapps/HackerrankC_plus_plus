@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614595012 source:c:\users\sriap\downloads\hackerrankc++\virtualfunc\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+

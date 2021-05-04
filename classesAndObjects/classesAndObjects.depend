@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1613405092 source:c:\users\sriap\downloads\hackerrankc++\classesandobjects\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+	<cassert>
+
